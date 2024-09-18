@@ -6,7 +6,11 @@ and open the template in the editor.
 /*
 ================================
 #0 css variable */
-:root{--body-color: hsla(120,50%,75%,0.8); }
+:root{
+--body-color: hsla(120, 96%, 28%, 0.8); 
+--page-color: hsla(34, 89%, 45%, 0.75);
+--sidebar-color:hsla(2, 85%, 44%, 0.776);
+}
 
 /*
 ================================
