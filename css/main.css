@@ -10,6 +10,8 @@ and open the template in the editor.
 --body-color: hsla(120, 96%, 28%, 0.8); 
 --page-color: hsla(34, 89%, 45%, 0.75);
 --sidebar-color:hsla(2, 85%, 44%, 0.776);
+/* font color*/
+--font-color:rgb(31, 2, 24);
 }
 
 /*
